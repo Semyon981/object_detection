@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elk</folder>
+	<filename>61.yf_bullelk_mammoth_sept14_ludinmatt_web.jpg</filename>
+	<path>/Users/sema/github/object_detection/google-images-download/google_images_download/downloads/elk/61.yf_bullelk_mammoth_sept14_ludinmatt_web.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elk</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>23</ymin>
+			<xmax>800</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elk</folder>
+	<filename>47.elk1_ss.jpg</filename>
+	<path>/Users/sema/github/object_detection/google-images-download/google_images_download/downloads/elk/47.elk1_ss.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>88</ymin>
+			<xmax>680</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

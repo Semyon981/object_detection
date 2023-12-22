@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elk</folder>
+	<filename>24.the_slaughter_of_elk_at_yellowstone_national_park_1050x700.jpg</filename>
+	<path>/Users/sema/github/object_detection/google-images-download/google_images_download/downloads/elk/24.the_slaughter_of_elk_at_yellowstone_national_park_1050x700.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>190</ymin>
+			<xmax>617</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

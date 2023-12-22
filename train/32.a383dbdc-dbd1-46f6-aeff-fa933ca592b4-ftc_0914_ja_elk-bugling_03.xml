@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elk</folder>
+	<filename>32.a383dbdc-dbd1-46f6-aeff-fa933ca592b4-ftc_0914_ja_elk-bugling_03.jpg</filename>
+	<path>/Users/sema/github/object_detection/google-images-download/google_images_download/downloads/elk/32.a383dbdc-dbd1-46f6-aeff-fa933ca592b4-ftc_0914_ja_elk-bugling_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>97</ymin>
+			<xmax>617</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>

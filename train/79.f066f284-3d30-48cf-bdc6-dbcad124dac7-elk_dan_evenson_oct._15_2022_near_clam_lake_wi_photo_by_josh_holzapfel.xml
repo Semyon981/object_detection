@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elk</folder>
+	<filename>79.f066f284-3d30-48cf-bdc6-dbcad124dac7-elk_dan_evenson_oct._15_2022_near_clam_lake_wi_photo_by_josh_holzapfel.jpg</filename>
+	<path>/Users/sema/github/object_detection/google-images-download/google_images_download/downloads/elk/79.f066f284-3d30-48cf-bdc6-dbcad124dac7-elk_dan_evenson_oct._15_2022_near_clam_lake_wi_photo_by_josh_holzapfel.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elk</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>160</ymin>
+			<xmax>800</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elk</folder>
+	<filename>37.360056c9-07aa-4c00-8864-0af5044dbeaa-tcf_elk_william_h._silver_dsc08221_1.jpg</filename>
+	<path>/Users/sema/github/object_detection/google-images-download/google_images_download/downloads/elk/37.360056c9-07aa-4c00-8864-0af5044dbeaa-tcf_elk_william_h._silver_dsc08221_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>123</ymin>
+			<xmax>704</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

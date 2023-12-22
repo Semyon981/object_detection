@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elk</folder>
+	<filename>63.nature_elk_bull-elk-in-cataloochee-valley_mdunn.jpg</filename>
+	<path>/Users/sema/github/object_detection/google-images-download/google_images_download/downloads/elk/63.nature_elk_bull-elk-in-cataloochee-valley_mdunn.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>140</ymin>
+			<xmax>646</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>
